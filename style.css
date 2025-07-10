@@ -18,10 +18,13 @@ header{
     align-items: center;
     position: relative;
     z-index: 100;
+    /* border: 1px solid red; */
 }
 header a{
     color: #eee;
     margin-right: 40px;
+    /* border: 1px solid green; */
+    font-size: 18px;
 }
 /* carousel */
 .carousel{
